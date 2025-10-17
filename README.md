@@ -10,10 +10,12 @@ Acesse a versão publicada via **GitHub Pages**:
 
 ---
 
-## 🖼️ Prévia do Projeto
 ## 📸 Prévia do Projeto
 
-![Prévia da Neon Page](./screenshot.png)
+![Prévia da Landing Page](./screenshot.png)
+
+🔗 [Ver Landing Page ao vivo](https://pedro2506.github.io/Aula_11/)
+
 
 
 
