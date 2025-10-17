@@ -1,7 +1,7 @@
 ## 📸 Prévia do Projeto
 
 <p align="center">
-  <img src="./screenshot.png" alt="Prévia da Landing Page" width="600px" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);">
+  <img src="./screenshot.png" alt="Prévia da Landing Page" width="400px" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);">
 </p>
 
 <p align="center">
