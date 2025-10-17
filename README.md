@@ -1,8 +1,12 @@
 ## 📸 Prévia do Projeto
 
-![Prévia da Landing Page](./screenshot.png)
+<p align="center">
+  <img src="./screenshot.png" alt="Prévia da Landing Page" width="600px" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);">
+</p>
 
-🔗 [Ver Landing Page ao vivo](https://pedro2506.github.io/Aula_11/)
+<p align="center">
+  🔗 <a href="https://pedro2506.github.io/Aula_11/" target="_blank">Ver Landing Page ao vivo</a>
+</p>
 
 # 🌌 Aula_11 — Page Neon
 
