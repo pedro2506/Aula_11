@@ -11,9 +11,8 @@ Acesse a versão publicada via **GitHub Pages**:
 ---
 
 ## 🖼️ Prévia do Projeto
-![Prévia da Landing Page](https://raw.githubusercontent.com/pedro2506/up9/main/screenshot.png)
+![Prévia da Landing Page](https://raw.githubusercontent.com/pedro2506/Aula_11/main/screenshot.png)
 
-> 💡 Dica: adicione uma imagem chamada `screenshot.png` na raiz do repositório para exibir a prévia acima.
 
 ---
 
