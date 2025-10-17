@@ -1,4 +1,10 @@
-# 🌌 Aula_11 — Landing Page Neon
+## 📸 Prévia do Projeto
+
+![Prévia da Landing Page](./screenshot.png)
+
+🔗 [Ver Landing Page ao vivo](https://pedro2506.github.io/Aula_11/)
+
+# 🌌 Aula_11 — Page Neon
 
 Landing page moderna e responsiva desenvolvida com **HTML5**, **CSS3** e **Tailwind CSS**, com animações de gradiente, efeitos de **neon glow** e design translúcido e minimalista.
 
@@ -11,15 +17,7 @@ Acesse a versão publicada via **GitHub Pages**:
 
 ---
 
-## 📸 Prévia do Projeto
 
-<p align="center">
-  <img src="./screenshot.png" alt="Prévia da Landing Page" width="800px" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);">
-</p>
-
-<p align="center">
-  🔗 <a href="https://pedro2506.github.io/Aula_11/" target="_blank">Ver Landing Page ao vivo</a>
-</p>
 
 ---
 
