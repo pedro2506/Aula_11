@@ -6,7 +6,7 @@ Landing page moderna e responsiva desenvolvida com **HTML5**, **CSS3** e **Tailw
 
 ## 🌐 Visualização Online
 Acesse a versão publicada via **GitHub Pages**:  
-👉 [https://pedro2506.github.io/up9/](https://pedro2506.github.io/up9/)
+👉 [https://pedro2506.github.io/up9/](https://pedro2506.github.io/Aula_11/)
 
 ---
 
