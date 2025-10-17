@@ -1,21 +1,31 @@
 
-# Aula_11 — Landing Page Neon
+# 🌌 Aula_11 — Landing Page Neon
 
-Landing page moderna e responsiva desenvolvida com **HTML5**, **CSS3** e **Tailwind CSS**, destacando animações de gradiente, efeitos de **neon glow** e design limpo com **transparências e blur**.
+Landing page moderna e responsiva desenvolvida com **HTML5**, **CSS3** e **Tailwind CSS**, com animações de gradiente, efeitos de **neon glow** e design translúcido e minimalista.
+
+---
+
+## 🖼️ Prévia do Projeto
+![Prévia da Landing Page](https://raw.githubusercontent.com/pedro2506/up9/main/screenshot.png)
+
+> 💡 Dica: adicione uma imagem chamada `screenshot.png` na raiz do repositório para exibir a prévia acima.
+
+---
 
 ## 🧠 Tecnologias Utilizadas
-- **HTML5** — Estrutura semântica da página  
-- **Tailwind CSS** — Estilização utilitária e responsiva  
-- **CSS Puro** — Animações personalizadas (gradiente animado, glow e pulsação neon)  
+- **HTML5** — Estrutura da página  
+- **Tailwind CSS (CDN)** — Estilização rápida e responsiva  
+- **CSS Puro** — Animações customizadas (gradiente dinâmico, neon e blur)
+
+---
 
 ## 💡 Funcionalidades
-- Gradiente animado de fundo  
-- Botão com borda e **efeito neon pulsante**  
-- Cards interativos com **glow dinâmico e hover suave**  
-- Layout totalmente responsivo e otimizado para telas grandes e pequenas  
+- Fundo com **gradiente animado**  
+- Botão “🌟 Novidades” com **borda neon e efeito glow**  
+- Cards com **animação de brilho e pulsação** no hover  
+- Layout totalmente **responsivo e leve**  
+- Uso de **blur** e transparência para efeito de vidro fosco (*glassmorphism*)
+
+---
 
 ## 📁 Estrutura de Arquivos
-
-
-![Prévia da Landing Page](https://raw.githubusercontent.com/pedro2506/aula_11/main/screenshot.png)
-****
